@@ -1,7 +1,3 @@
-## README do perfil
-
-Crie um repositório público com o nome **exatamente igual** ao seu novo usuário do
-GitHub e cole isto no `README.md` dele. Troque `seu-usuario` pelo usuário novo.
 
 <!-- ================= COMEÇA O README ================= -->
 
